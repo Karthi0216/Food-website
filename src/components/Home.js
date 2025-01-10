@@ -97,7 +97,7 @@ const Home = () => {
           <div className="card-body">
             <h3 className="card-title">Italian Cuisine</h3>
             <p className="card-text">
-              Experience authentic Italian flavors with a selection of pastas, pizzas, and more.
+              Experience authentic Italian flavors with a selection of pastas, pizzas, and more spicesto give food .
             </p>
           </div>
         </div>
